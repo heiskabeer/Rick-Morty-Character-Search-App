@@ -1,4 +1,5 @@
 # Rick & Morty Character's Profile APP
+![](https://github.com/heiskabeer/Rick-Morty-Character-Search-App/blob/main/media/rick_morty.png)
 
 This web app provides users with a searchable database of detailed character profiles from the animated series, Rick and Morty. 
 
@@ -16,7 +17,7 @@ The app works by allowing users to input a search query based on a character's n
 The app also have a feature to allow users download the search result has a CSV file. 
 
 ## Sample Demo
-![](https://github.com/heiskabeer/Rick-Morty-Character-Search-App/blob/main/sample%20demo.gif)
+![](https://github.com/heiskabeer/Rick-Morty-Character-Search-App/blob/main/media/sample%20demo.gif)
 
 
 ## Technologies Used
@@ -49,7 +50,7 @@ To think this problem was only fixed by a line of code still surprises me. You c
 
 **Another Blockage** i experienced was working with Streamlit libary as it was my first time picking up the stack. It was a fun ride thou. 
 
-![](https://github.com/heiskabeer/Rick-Morty-Character-Search-App/blob/main/rick.gif)
+![](https://github.com/heiskabeer/Rick-Morty-Character-Search-App/blob/main/media/rick.gif)
 
 ---- 
 
