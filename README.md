@@ -7,7 +7,9 @@ It includes information such as **The characters Image, Name, Status, Gender, Sp
 
 This resource is designed to be user-friendly and easily accessible for anyone interested in learning more about the show's characters.
 
-> Here is working live demo of the project: https://rickmorty.streamlit.app/
+My journey with this project began when I decided to hone my web scraping skills using API. But soon enough, I set a higher goal for myself - to leverage the scraped data and build a meaningful product.
+
+> Here is a working live demo of the project: https://rickmorty.streamlit.app/
 
 ## How does the App Work?
 The app works by allowing users to input a search query based on a character's name, gender, status, or species. The app then performs a **fuzzy search** on the database and returns a list of character profiles that match the search criteria, including information such as name, status, gender, species, location, and the number of episodes a character has appeared in.
