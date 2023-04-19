@@ -8,7 +8,7 @@ def app():
     data = pd.read_csv('cleaned_rick_morty.csv')
 
     # Define the user interface using Streamlit components
-    st.title('Rick and Morty Character Search')
+    st.title('Rick and Morty Character Search 🔎')
 
     search_query = st.text_input('Enter a character name:')
     search_button = st.button('Search')
